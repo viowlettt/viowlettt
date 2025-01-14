@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**viowlettt/viowlettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a **Data Scientist** exploring the possibilities of **Python, Machine Learning, and Artificial Intelligence**. This GitHub is where I share projects and tools for learning and problem-solving.
 
-Here are some ideas to get you started:
+## What's Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Machine Learning Projects**: From predictive modeling to deep learning.
+- **AI Experiments**: Exploring trends and ideas in artificial intelligence.
+- **Python Tools**: Scripts and utilities for data workflows.
+
+## About Me
+
+I'm a junior data scientist eager to learn, collaborate, and contribute to the open-source community.
+
+## Let's Connect
+
+- **LinkedIn**: [Violette Castells](https://www.linkedin.com/in/violette-castells/). Connect with me for professional insights.
+- **Email**: Reach out at castells.violette@gmail.com!
+
+Feel free to explore my repositories and drop a ⭐️ if you find something useful. Collaboration and feedback are always welcome!
+
